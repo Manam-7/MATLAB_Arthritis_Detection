@@ -79,7 +79,7 @@ Our framework consists of four main modules:
 This project represents a significant step towards utilizing advanced image analysis and machine learning for arthritis diagnosis and management. By fostering further development and collaboration, we can hope to improve patient outcomes and contribute to a healthier future.
 
 ## Documentaion:
-- [Project Ppt]
+- [Project Ppt] (https://github.com/Manam-7/MATLAB_Arthritis_Detection/blob/45e7924c1cb2cf8fbaa3b5b6f0d69819333deb09/Final%20PPT.pptx)
 - [Final Report]
 
 ## References:
